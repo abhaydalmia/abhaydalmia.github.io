@@ -65,7 +65,7 @@ a.two:hover {
 
 
 .wrapper {
-  width:640px;
+  width:780px;
   margin:0 auto;
 }
 
@@ -97,8 +97,8 @@ table {
 
 th, td {
   text-align:left;
-  padding:5px 0px;
-  border-bottom:1px solid #e5e5e5;
+  padding:10px 0px;
+  border-style:hidden;
 }
 
 dt {
@@ -181,9 +181,9 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:650px;
   float:right;
-  padding-bottom:50px;
+  padding-bottom:10px;
 }
 
 small {
